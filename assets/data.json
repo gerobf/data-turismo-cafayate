@@ -207,16 +207,16 @@
     {
       "id": "hos001",
       "nombre": "Hospital Nuestra Señora del Rosario",
-      "descripcion_es": "PARA TURNOS COMUNICARSE AL 148",
-      "descripcion_en": "",
-      "horario_es": "",
-      "horario_en": "",
+      "descripcion_es": "Hospital público provincial de nivel general con servicios de emergencia, diagnóstico y atención especializada. Atiende urgencias las 24 horas y cuenta con equipamiento moderno para diagnóstico por imágenes. Solicitar turnos: Para solicitar turnos en las distintas especialidades, puede comunicarse al 148. Linea gratuita las 24hs.",
+      "descripcion_en": "This is a general-level provincial public hospital offering emergency services, diagnostics, and specialized care.\nIt handles emergencies 24 hours a day and features modern equipment for diagnostic imaging.\nTo Request Appointments\nTo request appointments for the different specialties, please call 148. This is a free line available 24 hours a day. ",
+      "horario_es": "Guardia abierta 24hs. ",
+      "horario_en": "24-Hour Emergency Service",
       "latitud": -26.064702924863,
       "longitud": -65.9828814447698,
-      "telefono": "",
-      "mail": "",
+      "telefono": "GUARDIA - TELEFONO 03868-422021\r\nSECRETRIA DE GERENCIA -03868-422010",
+      "mail": "hospitaldecafayate@hotmail.com\r\n",
       "web": "",
-      "instagram": ""
+      "instagram": "https://www.facebook.com/p/Hospital-Nuestra-Se%C3%B1ora-del-Rosario-AO-XXIV-Cafayate-100089838803600/"
     }
   ],
   "comisaria": [
