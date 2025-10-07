@@ -172,7 +172,7 @@
       "horario_es": "lunes a sabados \n8:30 a.m.–1 p.m.\n5–10 p.m.",
       "horario_en": "Open Monday through Saturday: 8 AM to 1 PM and 5 PM to 10 PM.",
       "latitud": -26.0739117805533,
-      "longitud": 65.9785048757394,
+      "longitud": -65.9785048757394,
       "telefono": 3868421745,
       "mail": "",
       "web": "",
@@ -184,7 +184,7 @@
       "horario_es": "lunes a sabados \n8:30 a.m.–1 p.m.\n5–10 p.m.",
       "horario_en": "Open Monday through Saturday: 8 AM to 1 PM and 5 PM to 10 PM.",
       "latitud": -26.0744899954418,
-      "longitud": 65.9916798854832,
+      "longitud": -65.9916798854832,
       "telefono": 3868460776,
       "mail": "",
       "web": "",
@@ -219,6 +219,18 @@
       "instagram": "https://www.facebook.com/p/Hospital-Nuestra-Se%C3%B1ora-del-Rosario-AO-XXIV-Cafayate-100089838803600/"
     }
   ],
+  "bomberos": [
+    {
+      "id": "bom001",
+      "nombre": "Bomberos Voluntarios de Cafayate ",
+      "latitud": -26.0697493172704,
+      "longitud": -65.9719014613769,
+      "telefono": "EMERGENCIAS: 3868-639639\r\nRecarga de Matafuegos: 3868-406086",
+      "mail": "bomberoscafayate@gmail.com",
+      "web": "",
+      "instagram": "https://www.instagram.com/bomberos.cafayate/"
+    }
+  ],
   "comisaria": [
     {
       "id": "com001",
@@ -231,18 +243,6 @@
       "mail": "",
       "web": "",
       "instagram": ""
-    }
-  ],
-  "bomberos": [
-    {
-      "id": "bom001",
-      "nombre": "Bomberos Voluntarios de Cafayate ",
-      "latitud": -26.0697493172704,
-      "longitud": -65.9719014613769,
-      "telefono": "EMERGENCIAS: 3868-639639\r\nRecarga de Matafuegos: 3868-406086",
-      "mail": "bomberoscafayate@gmail.com",
-      "web": "",
-      "instagram": "https://www.instagram.com/bomberos.cafayate/"
     }
   ]
 }
