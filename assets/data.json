@@ -1,10 +1,200 @@
 {
-  "bodegas": [],
-  "cabalgatas": [],
-  "trekking": [],
-  "museos": [],
-  "farmacia": [],
-  "hospitales": [],
-  "policia": [],
-  "bomberos": []
+  "bodegas": [
+    {
+      "id": "bod001",
+      "nombre": "Amalaya",
+      "descripcion_es": "En 2010, en los Altos Valles Calchaqu?es de Salta, Argentina, naci? Bodega Amalaya. Esta bodega encarna la visi?n de Larissa y Christoph Ehrbar, sucesores del pionero vit?cola Donald Hess. Ambos conf?an en la energ?a extraordinaria del terroir de Cafayate y la posibilidad de crear vinos de gran altura, vibrantes y modernos.",
+      "descripcion_en": "In 2010, Bodega Amalaya was born in the High Calchaqu? Valleys of Salta, Argentina. This winery embodies the vision of Larissa and Christoph Ehrbar, successors to the viticultural pioneer Donald Hess. Both trust in the extraordinary energy of the Cafayate terroir and the possibility of creating vibrant, modern, high-altitude wines.",
+      "horarios_es": "",
+      "horarios_en": "",
+      "latitud": -26.0782888853742,
+      "longitud": -66.0032318979214,
+      "telefono": "54 9 387 3133859",
+      "mail": "winebar@amalaya.com",
+      "web": "www.amalaya.com",
+      "instagram": "https://www.instagram.com/bodegamalaya/?hl=es"
+    },
+    {
+      "id": "bod002",
+      "nombre": "BURBUJAS DE ALTURA",
+      "descripcion_es": "\nEn el a?o 1.988, se asienta en Cafayate la familia H?y y nace en ella el amor por los Valles Calchaqu?es, la vi?a y sus Vinos de Altura.\n\nSu crecimiento y desarrollo transcurre en este ?mbito v?nico.\n\nEn el a?o 1.998 adquieren un peque?o terru?o con vi?edos: Finca La Primavera, dedic?ndose plenamente a la producci?n de uva para vino y al enoturismo, dando inicio a un emprendimiento netamente familiar.\n\nEn el 2.014, se inicia un proceso de valor agregado y se incorpora a su esquema productivo el Vino Espumante ?Burbujas de Altura?, con caracter?sticas diferenciales a las existentes en el mercado: elaborado por el m?todo tradicional y en base a uva Torront?s, lo que lo convierte en un producto con personalidad y caracter?sticas ?nicas.",
+      "descripcion_en": "In 1988, the H?y family settled in Cafayate, and a love for the Calchaqu? Valleys, the vineyards, and their High-Altitude Wines was born within them.\n\nTheir growth and development took place in this wine environment.\n\nIn 1998, they acquired a small piece of land with vineyards: Finca La Primavera, dedicating themselves fully to the production of wine grapes and to wine tourism, starting a purely family enterprise.\n\nIn 2014, a value-added process began, and they incorporated the sparkling wine \"Burbujas de Altura\" (High-Altitude Bubbles) into their production scheme. This wine has distinguishing characteristics compared to others on the market: it is made using the traditional method and based on the Torront?s grape, which makes it a product with unique personality and features.",
+      "horarios_es": "Lunes a viernes: de 11:00 a 13:00 hs. y de 17:00 a 19:30 hs.\nS?bados: de 11:00 a 14:00 hs.\nDomingos: Cerrado\nFines de semana largos: de 11:00 a 14:00 hs.",
+      "horarios_en": "Monday to Friday: from 11:00 AM to 1:00 PM and from 5:00 PM to 7:30 PM\nSaturdays: from 11:00 AM to 2:00 PM\nSundays: Closed\nLong Weekends: from 11:00 AM to 2:00 PM",
+      "latitud": -26.0348005453366,
+      "longitud": -65.9804221407002,
+      "telefono": "54 9 3868 401524",
+      "mail": "info@burbujasdealtura.com.ar",
+      "web": "www.burbujasdealtura.com.ar/",
+      "instagram": "https://www.instagram.com/burbujasdealtura"
+    },
+    {
+      "id": "bod003",
+      "nombre": "DOMINGO HERMANOS",
+      "descripcion_es": "La bodega dispone de 6 millones de litros de capacidad instalada, distribuidos entre tanques de Acero inoxidable, piletas y tanques revestidos con Epoxi.\n\nLas instalaciones de elaboraci?n y fraccionamiento de los vinos son de ?ltima generaci?n, (molienda de origen Franc?s, prensa Neum?tica, filtro de vac?o), contando adem?s con cavas climatizadas para la crianza en barricas de roble y la guarda de botellas fraccionadas.\n\nSe dispone de un laboratorio completo donde se realizan estrictos controles de calidad en l?nea con todos los requisitos exigidos tanto en el mercado argentino como internacional.",
+      "descripcion_en": "The winery has an installed capacity of **6 million liters**, distributed among **stainless steel tanks**, concrete vats (*piletas*), and **Epoxy-coated tanks**.\r\n\r\nThe wine production and bottling facilities are **state-of-the-art**, featuring (French-made crushing equipment, a pneumatic press, and a vacuum filter). The facilities also include **climate-controlled cellars** for aging the wine in oak barrels and for storing bottled wine.\r\n\r\nA complete **laboratory** is available where strict **quality control** checks are performed, in line with all the requirements demanded by both the Argentine and international markets.",
+      "horarios_es": "Todos los d?as de la semana de 10.00 a 17.00 hs.",
+      "horarios_en": "Every day of the week from 10:00 AM to 5:00 PM.",
+      "latitud": -26.0767776065728,
+      "longitud": -65.97595446251,
+      "telefono": "54 3868 421225 / +54 3868 421386 - Int. 215",
+      "mail": "bodega@domingohermanos.com",
+      "web": "https://www.domingohermanos.com/",
+      "instagram": "https://www.instagram.com/bodega.domingohermanos_"
+    },
+    {
+      "id": "bod004",
+      "nombre": "DOMINGO MOLINA",
+      "descripcion_es": "Esta bodega 100% familiar, se encuentra ubicada en Yacochuya Norte - Cafayate en los Valles Calchaqu?es, provincia de Salta. A partir de su formaci?n profesional, y con una larga experiencia en la vitivinicultura, los hermanos Osvaldo, Gabriel y Rafael Domingo han encarado este emprendimiento donde se conjugan las incre?bles particularidades de las uvas de altura con instalaciones y tecnolog?a de ?ltima generaci?n.\r\n\r\nEn sus 60 hect?reas de vi?edos ubicados entre los 1.600 y 2.300 metros de altura sobre el nivel del mar, el exclusivo y especial microclima de la regi?n con m?s de 300 d?as de intenso sol por a?o, escasas lluvias, y una gran amplitud t?rmica, brinda excelentes condiciones para desarrollar en plenitud todo el potencial de las uvas que all? se cultivan.",
+      "descripcion_en": "This 100% family-owned winery is located in Yacochuya Norte - Cafayate in the Calchaqu? Valleys, Salta province. Drawing from their professional training and long experience in viticulture, the brothers Osvaldo, Gabriel, and Rafael Domingo have undertaken this project, which combines the incredible characteristics of high-altitude grapes with state-of-the-art facilities and technology.\n\nIn their 60 hectares of vineyards, situated between 1,600 and 2,300 meters above sea level, the region's exclusive and special microclimate?with more than 300 days of intense sun per year, scarce rainfall, and a wide thermal amplitude (large temperature swing)?provides excellent conditions to fully develop the potential of the grapes grown there.",
+      "horarios_es": "Todos los d?as de la semana de 10.00 a 17.00 hs.",
+      "horarios_en": "Every day of the week from 10:00 AM to 5:00 PM.",
+      "latitud": -26.0367521786208,
+      "longitud": -66.0185811192716,
+      "telefono": "(03868) 154 52887",
+      "mail": "turismo@domingomolina.com.ar",
+      "web": "https://www.domingomolina.com.ar/",
+      "instagram": "https://www.instagram.com/bgadomingomolina"
+    }
+  ],
+  "cabalgatas": [
+    {
+      "id": "cab001",
+      "nombre": "Santa Helena",
+      "descripcion_es": "El contactarnos con gente de todo el mundo nos llev? a dise?ar este servicio que ofrecemos en la misma finca donde producimos nuestros quesos de cabra.\r\n\r\n \r\n\r\nCon diferentes modalidades, seg?n los intereses de cada uno de nuestros visitantes, nuestra propuesta incluye vivir el campo desde adentro, conociendo cada parte de nuestra labor, o bien disfrutar relajados de un t?pico asado argentino con cabalgatas o trekking en la magn?fica Quebrada de las Conchas, en Cafayate.\r\n\r\n?\r\n\r\nTambi?n contamos con una oferta de alojamiento rural en el marco de un paisaje m?gico, por donde se lo mire.\r\n\r\n?\r\n\r\nTenemos adem?s un r?gimen especial para agencias y operadores tur?sticos. ",
+      "descripcion_en": "Connecting with people from all over the world led us to design this service, which we offer right on the farm where we produce our goat cheeses.\n\nWith various options, tailored to the interests of each of our visitors, our proposal includes: experiencing farm life from the inside, getting to know every part of our work, or simply relaxing and enjoying a traditional Argentine asado (barbecue) with horseback riding or trekking in the magnificent Quebrada de las Conchas in Cafayate.\n\nWe also offer rural accommodation within a magical landscape, no matter where you look.\n\nAdditionally, we have a special program for travel agencies and tour operators.",
+      "horario_es": "",
+      "horario_en": "",
+      "latitud": -25.9928634231011,
+      "longitud": -65.8314924153442,
+      "telefono": "54 9 387 683-7056",
+      "mail": "santaelenacafayate@gmail.com",
+      "web": "https://www.santaelenacafayate.com/",
+      "instagram": "https://www.instagram.com/santaelenacafayate/"
+    }
+  ],
+  "museos": [
+    {
+      "id": "mus001",
+      "nombre": "Museo de la Vid y el Vino ",
+      "descripcion_es": "El Museo de la Vid y el Vino se encuentra a la vanguardia de los Museos Tem?ticos Argentinos y se posiciona como uno de los m?s originales e innovadores Museos dedicados al vino de todo el Mundo.\nPor la creatividad y los recursos esc?nicos y audiovisuales puestos al servicio se expresa el contrapunto entre: la tradici?n y la tecnolog?a, la poes?a y el trabajo, la naturaleza y el hombre, los secretos ancestrales de la tierra y los modernos procesos industriales.\nPuede ser disfrutado tanto por argentinos como por visitantes extranjeros convirti?ndose en uno de los atractivos imperdibles de la provincia de Salta y en un valioso aporte cultural de Cafayate a todo el Pa?s.\nLas exhibiciones del Museo de la Vid y el Vino se desarrollan en dos vol?menes arquitect?nicos que presentan dos ?reas tem?ticas o ?ejes narrativos?. Ellos son: Memoria de la Vid y Memoria del Vino",
+      "descripcion_en": "The Museum of the Vine and Wine (Museo de la Vid y el Vino) is at the forefront of Argentine Thematic Museums and is positioned as one of the most original and innovative wine-dedicated museums in the entire world.\nThanks to its creativity and the scenic and audiovisual resources used, it expresses the counterpoint between: tradition and technology, poetry and labor, nature and man, the ancestral secrets of the earth and modern industrial processes.\nIt can be enjoyed by both Argentine and international visitors, making it one of the must-see attractions in Salta province and a valuable cultural contribution from Cafayate to the entire country.\nThe exhibits at the Museum of the Vine and Wine are presented across two architectural volumes that feature two thematic areas or 'narrative axes.' These are: Memory of the Vine and Memory of the Wine.",
+      "horario_es": "Martes a Domingos: de 09:00 hs a 18:00 hs",
+      "horario_en": "Open Tuesday through Sunday: 9 AM ? 6 PM",
+      "latitud": -26.0758579417459,
+      "longitud": -65.9758021754517,
+      "telefono": "54 3868 422322/422434",
+      "mail": "infomuseodelavidyelvino@gmail.com",
+      "web": "https://www.museodelavidyelvino.gov.ar/",
+      "instagram": "https://www.instagram.com/cafayatemuseodelavidyelvino/?hl=es"
+    }
+  ],
+  "trekking": [
+    {
+      "id": "trk001",
+      "nombre": "Identidad Calchaqui",
+      "descripcion_es": "Invitamos a todos los viajeros que practican el turismo responsable y sustentable, valoran la econom?a local y respetan el medio ambiente a ser parte de nuestro proyecto. Nuestra cultura es el resultado de la herencia de la cultura Diaguita y de nuestra interacci?n diaria y respetuosa con la naturaleza, los cerros, los r?os, el cielo y nuestras creencias.\nLa Pachamama es el sustento de nuestra vida, ella nos acompa?a y compartimos su tierra: su bienestar es nuestro bienestar, y es el resultado de nuestras pr?cticas saludables y de respeto. Nosotros somos felices en nuestra tierra, y no queremos irnos de ella porque somos parte de ella. Nuestra identidad est? vinculada a tener sangre calchaqu? y la compartimos con los viajeros que nos visitan.\nTe invitamos a caminar por nuestras monta?as, senderos y valles, para disfrutar de un intercambio cultural que incluye nuestras filosof?as de vida, tradiciones, valores, costumbres, leyendas y saberes vallistos.",
+      "descripcion_en": "We invite all travelers who practice responsible and sustainable tourism, value the local economy, and respect the environment to be part of our project.\nOur culture is the result of the Diaguita heritage and our daily, respectful interaction with nature, the mountains, the rivers, the sky, and our beliefs.\nThe Pachamama (Mother Earth) is the foundation of our life; she guides us, and we share her land. Her well-being is our well-being, and it is the result of our healthy and respectful practices. We are happy on our land, and we do not want to leave it because we are part of it. Our identity is linked to having Calchaqu? blood, and we share this with the travelers who visit us.\nWe invite you to walk our mountains, trails, and valleys to enjoy a cultural exchange that includes our philosophies of life, traditions, values, customs, legends, and knowledge of the valley ",
+      "horario_es": "",
+      "horario_en": "",
+      "latitud": "",
+      "longitud": "",
+      "telefono": 5493868639953,
+      "mail": "identidadcalchaqui20@gmail.com",
+      "web": "",
+      "instagram": "https://www.instagram.com/trekkingencafayate/"
+    }
+  ],
+  "farmacias": [
+    {
+      "id": "far001",
+      "nombre": "Farmacia Nuestra Se?ora de la Merced",
+      "horario_es": "",
+      "horario_en": "",
+      "latitud": -26.0687462675948,
+      "longitud": -65.9838263780616,
+      "telefono": "03868 42-1137",
+      "mail": "",
+      "web": "",
+      "instagram": ""
+    },
+    {
+      "id": "far002",
+      "nombre": "Farmacia De La Esquina",
+      "horario_es": "martes - sabado \n8:30?a.m.?1?p.m.\n5?10:30?p.m.",
+      "horario_en": "Open Tuesday through Saturday\nMornings: 8:30 AM to 1:00 PM\nEvenings: 5:00 PM to 10:30 PM",
+      "latitud": -26.0689390147103,
+      "longitud": -65.9745995797068,
+      "telefono": 3868422122,
+      "mail": "",
+      "web": "",
+      "instagram": ""
+    },
+    {
+      "id": "far003",
+      "nombre": "FARMACIA Cafayate",
+      "horario_es": "",
+      "horario_en": "",
+      "latitud": -26.0668187789935,
+      "longitud": -65.9832684786262,
+      "telefono": "",
+      "mail": "",
+      "web": "",
+      "instagram": ""
+    },
+    {
+      "id": "far004",
+      "nombre": "Farmacia Pastor\r",
+      "horario_es": "",
+      "horario_en": "",
+      "latitud": "",
+      "longitud": "",
+      "telefono": 3868421214,
+      "mail": "",
+      "web": "",
+      "instagram": ""
+    }
+  ],
+  "hospitales": [
+    {
+      "id": "hos001",
+      "nombre": "",
+      "descripcion_es": "",
+      "descripcion_en": "",
+      "horario_es": "",
+      "horario_en": "",
+      "latitud": "",
+      "longitud": "",
+      "telefono": "",
+      "mail": "",
+      "web": "",
+      "instagram": ""
+    }
+  ],
+  "comisaria": [
+    {
+      "id": "com001",
+      "nombre": "Policia de Salta Comisaria 60 a U.R.6",
+      "horario_es": "",
+      "horario_en": "",
+      "latitud": -26.0721234101695,
+      "longitud": -65.977151,
+      "telefono": "54 3868-421111",
+      "mail": "",
+      "web": "",
+      "instagram": ""
+    }
+  ],
+  "bomberos": [
+    {
+      "id": "bom001",
+      "nombre": "Bomberos Voluntarios de Cafayate ",
+      "latitud": -26.0697493172704,
+      "longitud": -65.9719014613769,
+      "telefono": "EMERGENCIAS: 3868-639639\r\nRecarga de Matafuegos: 3868-406086",
+      "mail": "bomberoscafayate@gmail.com",
+      "web": "",
+      "instagram": "https://www.instagram.com/bomberos.cafayate/"
+    }
+  ]
 }
