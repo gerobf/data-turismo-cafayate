@@ -225,6 +225,20 @@
       "mail": "hospitaldecafayate@hotmail.com\r\n",
       "web": "",
       "instagram": "https://www.facebook.com/p/Hospital-Nuestra-Se%C3%B1ora-del-Rosario-AO-XXIV-Cafayate-100089838803600/"
+    },
+    {
+      "id": "hos002",
+      "nombre": "Consultorios Cafayate",
+      "descripcion_es": "Consultorios Privados. Ofrecen:\n\nOdontología Especializada en Prótesis e Implantes\n\nOdontología General\n\nCirugía\n\nPeriodoncia\n\nEndodoncia\n\nNiños\n\nGinecología, Obstetricia y Ecografías\n\nPsicología\n\nNutrición\n\nCosmiatría y Estética Corporal",
+      "descripcion_en": "Private Clinics/Consulting Rooms. They Offer:\n\nSpecialized Dentistry (Prosthetics and Implants)\n\nGeneral Dentistry\n\nSurgery (Oral/Dental)\n\nPeriodontics\n\nEndodontics\n\nPediatric Dentistry (Children)\n\nGynecology, Obstetrics, and Ultrasounds\n\nPsychology\n\nNutrition\n\nCosmiatry and Body Aesthetics",
+      "horario_es": "Lunes\t10:00 a.m. – 12:00 p.m., 3:00 p.m. – 7:00 p.m.\nMartes\t10:00 a.m. – 12:00 p.m., 3:00 p.m. – 7:00 p.m.\nMiércoles\t10:00 a.m. – 12:00 p.m., 3:00 p.m. – 7:00 p.m.\nJueves\t10:00 a.m. – 12:00 p.m., 3:00 p.m. – 7:00 p.m.\nViernes\t10:00 a.m. – 12:00 p.m., 3:00 p.m. – 7:00 p.m.\nSábado\tCerrado\nDomingo\tCerrado",
+      "horario_en": "Monday\t10:00 AM – 12:00 PM, 3:00 PM – 7:00 PM\nTuesday\t10:00 AM – 12:00 PM, 3:00 PM – 7:00 PM\nWednesday\t10:00 AM – 12:00 PM, 3:00 PM – 7:00 PM\nThursday\t10:00 AM – 12:00 PM, 3:00 PM – 7:00 PM\nFriday\t10:00 AM – 12:00 PM, 3:00 PM – 7:00 PM\nSaturday\tClosed\nSunday\tClosed",
+      "latitud": -26.0719526022058,
+      "longitud": -65.9784609260796,
+      "telefono": 3868421741,
+      "mail": "",
+      "web": "",
+      "instagram": ""
     }
   ],
   "bomberos": [
